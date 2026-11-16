@@ -1,0 +1,7 @@
+AUTO_PRICE	ַב׃Úׁ:
+SHOP_TAB_LEVEL_REQUIRED	םָּ ֳה Êßזה ַָבד׃Êזל {} Úבל ַבֳÞב בו׀ו ַבÚבַדֹ.
+TOOLTIP_SHOP_SELL_PRICE	׃Úׁ ַבָםÚ:
+TOOLTIP_SHORTCUT_MULTI_BUY_SHOP	װֱַׁ דÊÚֿֿ
+TOOLTIP_SHORTCUT_SHOP_SEARCH	ָֻֽ ַבדÊּׁ
+TOOLTIP_SHORTCUT_SHOP_SEARCH_PRICE	ַבָֻֽ Ýם ַבדÊַּׁ: %s
+TOOLTIP_SHORTCUT_WIKI	ÝÊֽ ַבזםßם

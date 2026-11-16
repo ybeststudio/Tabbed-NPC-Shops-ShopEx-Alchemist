@@ -1,0 +1,7 @@
+AUTO_PRICE	Preþ:
+SHOP_TAB_LEVEL_REQUIRED	Trebuie sã ai cel puþin nivelul {} pentru aceastã filã.
+TOOLTIP_SHOP_SELL_PRICE	Pret de vanzare:
+TOOLTIP_SHORTCUT_MULTI_BUY_SHOP	Cumpãrare multiplã
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Cautã în magazin
+TOOLTIP_SHORTCUT_SHOP_SEARCH_PRICE	Cautã în magazine: %s
+TOOLTIP_SHORTCUT_WIKI	Deschide Wikipedia

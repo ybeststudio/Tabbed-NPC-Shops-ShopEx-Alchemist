@@ -1,0 +1,7 @@
+AUTO_PRICE	Cena:
+SHOP_TAB_LEVEL_REQUIRED	Do tej karty wymagany jest co najmniej {}. poziom.
+TOOLTIP_SHOP_SELL_PRICE	Cena sprzeda¿y:
+TOOLTIP_SHORTCUT_MULTI_BUY_SHOP	Zakup wielokrotny
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Wyszukaj w sklepie
+TOOLTIP_SHORTCUT_SHOP_SEARCH_PRICE	Szukaj w sklepach: %s
+TOOLTIP_SHORTCUT_WIKI	Otwórz Wikipediê

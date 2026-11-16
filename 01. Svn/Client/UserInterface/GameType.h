@@ -1,0 +1,46 @@
+// Ara:
+	ITEM_ATTRIBUTE_SLOT_RARE_END = ITEM_ATTRIBUTE_SLOT_RARE_START + ITEM_ATTRIBUTE_SLOT_RARE_NUM,
+	ITEM_ATTRIBUTE_SLOT_MAX_NUM = ITEM_ATTRIBUTE_SLOT_RARE_END,
+};
+
+// Altina ekle:
+#ifdef ENABLE_RENEWAL_SHOPEX
+enum STableExTypes
+{
+	SHOPEX_GOLD = 1,
+	SHOPEX_COINS,
+	SHOPEX_ITEM,
+	SHOPEX_EXP,
+	SHOPEX_MAX,
+};
+#endif
+
+
+// Bul:
+#define SHOPEX_EXTRA_PRICE_MAX 2
+
+// Degistir:
+#if defined(ENABLE_SHOPEX_EXTRA_PRICE_5)
+#define SHOPEX_EXTRA_PRICE_MAX 5
+#elif defined(ENABLE_SHOPEX_EXTRA_PRICE_3)
+#define SHOPEX_EXTRA_PRICE_MAX 3
+#else
+#define SHOPEX_EXTRA_PRICE_MAX 2
+#endif
+
+
+// Ara:
+	BYTE display_pos;
+	long alSockets[ITEM_SOCKET_SLOT_MAX_NUM];
+	TPlayerItemAttribute aAttr[ITEM_ATTRIBUTE_SLOT_MAX_NUM];
+
+// Altina ekle:
+#ifdef ENABLE_RENEWAL_SHOPEX
+	BYTE price_type;
+	DWORD price_vnum;
+#ifdef ENABLE_SHOPEX_EXTRA_PRICE
+	DWORD extra_price_vnum[SHOPEX_EXTRA_PRICE_MAX];
+	DWORD extra_price_count[SHOPEX_EXTRA_PRICE_MAX];
+#endif
+#endif
+

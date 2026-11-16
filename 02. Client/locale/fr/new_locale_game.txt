@@ -1,0 +1,7 @@
+AUTO_PRICE	Prix:
+SHOP_TAB_LEVEL_REQUIRED	Vous devez être au moins niveau {} pour cet onglet.
+TOOLTIP_SHOP_SELL_PRICE	Prix de vente :
+TOOLTIP_SHORTCUT_MULTI_BUY_SHOP	Achat multiple
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Chercher dans la boutique
+TOOLTIP_SHORTCUT_SHOP_SEARCH_PRICE	Rechercher dans les boutiques : %s
+TOOLTIP_SHORTCUT_WIKI	Ouvrir Wikipedia

@@ -1,0 +1,7 @@
+AUTO_PRICE	Ár:
+SHOP_TAB_LEVEL_REQUIRED	Ehhez a laphoz legalább {}. szinten kell lenned.
+TOOLTIP_SHOP_SELL_PRICE	Eladási ára:
+TOOLTIP_SHORTCUT_MULTI_BUY_SHOP	Többszörös vásárlás
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Keresés az üzletben
+TOOLTIP_SHORTCUT_SHOP_SEARCH_PRICE	Keresés a boltokban: %s
+TOOLTIP_SHORTCUT_WIKI	Nyissa meg a Wikipédiát

@@ -1,0 +1,7 @@
+AUTO_PRICE	Cena:
+SHOP_TAB_LEVEL_REQUIRED	Pro tuto záložku musíš mít alespoò úroveò {}.
+TOOLTIP_SHOP_SELL_PRICE	Prodejní cena:
+TOOLTIP_SHORTCUT_MULTI_BUY_SHOP	Hromadný nákup
+TOOLTIP_SHORTCUT_SHOP_SEARCH	Hledat v obchodì
+TOOLTIP_SHORTCUT_SHOP_SEARCH_PRICE	Hledat v obchodech: %s
+TOOLTIP_SHORTCUT_WIKI	Otevøete Wikipedii

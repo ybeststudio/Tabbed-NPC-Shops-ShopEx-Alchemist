@@ -1,0 +1,34 @@
+61600	Þebnem Yenileme (1 Saat)
+61601	Þebnem Yenileme (%100)
+61606	Ejderha Markasý Yenileme (%100)
+65172	Ejderhanýn Alevi
+65173	Ejderhanýn Alevi+
+51031	Ortalama Hasar PvM Açýcý
+51032	Zindan Bonusu Açýcý
+51033	Kilit Açýcý: Erebus’a Karþý Güç
+51034	Kilit Açýcý: Meley’e Karþý Güç
+51035	Element Korumasý Kalýntýsý
+51036	Enerji Ýksiri (3sa)
+51037	Enerji Ýksiri (24 sa.)
+51038	Enerji Katalizörü I (0–15%)
+51039	Enerji Katalizörü II (10–25%)
+51053	Enerji Katalizörü III (23–35%)
+51054	Enerji Katalizörü IV (33–45%)
+51055	Enerji Katalizörü V (43–50%)
+51058	Enerji Katalizörü+
+51040	Enerji Kristali+0
+51041	Enerji Kristali+1
+51042	Enerji Kristali+2
+51043	Enerji Kristali+3
+51044	Enerji Kristali+4
+51045	Enerji Kristali+5
+51046	Enerji Kristali+6
+51047	Enerji Kristali+7
+51048	Enerji Kristali+8
+51049	Enerji Kristali+9
+51050	Enerji Kutsama Parþömeni
+51051	Enerji Sihir Taþý
+51052	Enerji Kristali Açýcý
+51060	Draconis Parçasý
+51061	Alev Parçasý
+61605	Ejderha Markasý Yenileme (1 Saat)
